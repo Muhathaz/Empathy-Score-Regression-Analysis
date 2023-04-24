@@ -1,5 +1,5 @@
 #Empathy-Score-Regression-Analysis
-This repository contains a Python script for performing Random Forest Regression on data which can be found at [https://www.nature.com/articles/s41597-022-01862-w#Sec10], as well as sample datasets to test the script. The script uses scikit-learn to implement the Random Forest Regression algorithm and pandas to load and manipulate the EEG data.
+This repository contains a Python script for performing Random Forest Regression on data which can be found at [https://www.nature.com/articles/s41597-022-01862-w#Sec10], as well as sample datasets to test the script. The script uses scikit-learn to implement the Random Forest Regression algorithm and pandas to load and manipulate the data.
 
 Requirements
 Python 3.x
